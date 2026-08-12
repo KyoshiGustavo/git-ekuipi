@@ -12,8 +12,7 @@
 |---|---|
 | Gustavo Kyoshi | Responsável do dia |
 | Alisson Moreira | Colaborador / Revisor |
-| (Nome do Integrante 3) | Colaborador |
-| (Nome do Integrante 4) | Colaborador |
+| João Miranda | Colaborador | Revisor |
 
 ## Descrição do desafio
 
