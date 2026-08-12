@@ -1,4 +1,4 @@
-# git-ekuipi
+# ecommerce-produtos-ekuipi
 ## Módulo Cadastro de Produto
 
 # Sistema de Gestão de Pedidos — E-commerce
